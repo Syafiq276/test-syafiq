@@ -58,3 +58,9 @@
    ```
    *Your application will now be available at [http://localhost:8000](http://localhost:8000).*
 
+**Credentials**
+
+```
+Email: hello@example.com
+Password: Test1234
+```
